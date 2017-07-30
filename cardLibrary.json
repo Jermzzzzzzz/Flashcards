@@ -1,0 +1,67 @@
+[
+  {
+    "type": "BasicCard",
+    "front": "The United States Constitution replaced what other document on March 4, 1789?",
+    "back": "The Articles of Confederation"
+  },
+  {
+    "type": "ClozeCard",
+    "text": "Nickname for citizen/soldiers of the Continental Army during the American War of Independence.",
+    "cloze": "Minutemen"
+  },
+  {
+    "type": "BasicCard",
+    "front": "In 1867 the United States purchased Alaska from what country?",
+    "back": "Russia"
+  },
+  {
+    "type": "BasicCard",
+    "front": "What battle was fought on June 18th, 1815 in present-day Belgium?.",
+    "back": "Battle of Waterloo"
+  },
+  {
+    "type": "ClozeCard",
+    "text": "The Boston Tea Party was a 1773 protest against British taxes in which colonists disguised as Mohawks dumped a valuable trade good into Boston Harbor.",
+    "cloze": "Tea Party"
+  },
+  {
+    "type": "BasicCard",
+    "front": "Who was the Prime Minister of Italy during WWII?",
+    "back": "Benito Mussollini"
+  },
+  {
+    "type": "ClozeCard",
+    "text": "First battles of the American Revoultion.",
+    "cloze": "Battle of Lexington and Concorld"
+  },
+  {
+    "type": "BasicCard",
+    "front": "What was the name of the U.S. mail service, started in 1860, that used horses and riders?",
+    "back": "The Pony Express"
+  },
+  {
+    "type": "ClozeCard",
+    "text": "Battle of Yorktown",
+    "cloze": "Final battle in the American War of Independence."
+  },
+  {
+    "type": "ClozeCard",
+    "text": "Benjamin Franklin was an American patriot, writer, printer, and inventor. During the Revolutionary War he persuaded the French to help the colonists.",
+    "cloze": "Benjamin Franklin"
+  },
+  {
+    "type": "BasicCard",
+    "front": "What?!",
+    "back": "OKAY!!!"
+  },
+  {
+    "type": "ClozeCard",
+    "text": "",
+    "cloze": ""
+  },
+  {
+    "type": "BasicCard",
+    "front": "",
+    "back": ""
+  }
+]
